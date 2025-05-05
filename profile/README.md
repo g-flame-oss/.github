@@ -3,7 +3,7 @@
 ### `G FLAME OSS`
 
 #### Automating tedious tasks and creating useful software solutions for developers and users alike.
-Visit my website [here](https://g-flame.github.io/G-flame/)
+**Visit my website [HERE](https://g-flame.github.io/G-flame/)**
 
 [![discord](https://img.shields.io/badge/Discord-server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n89WUuuCs)·
  
