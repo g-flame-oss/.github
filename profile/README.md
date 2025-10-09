@@ -2,7 +2,7 @@
 
 ### `G FLAME OSS`
 
-#### I make stuff that makes the stuff i find hard easy for me
+#### I make boring stuff easy
 
 
 
